@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\inclass\\inclass8\\inclass8activity\\pages\\newshomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|solutionrelative:pages\\newshomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\inclass\\inclass8\\inclass8activity\\pages\\newslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|solutionrelative:pages\\newslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\inclass\\inclass8\\inclass8activity\\pages\\newshomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|solutionrelative:pages\\newshomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\inclass\\inclass8\\inclass8activity\\pages\\newsdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|solutionrelative:pages\\newsdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\inclass\\inclass8\\inclass8activity\\pages\\newsdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|solutionrelative:pages\\newsdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\inclass\\inclass8\\inclass8activity\\pages\\newslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|solutionrelative:pages\\newslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\inclass\\inclass8\\inclass8activity\\models\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|solutionrelative:models\\root.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\inclass\\inclass8\\inclass8activity\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\inclass\\inclass8\\inclass8activity\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\inclass\\inclass8\\inclass8activity\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|c:\\users\\legol\\desktop\\school\\mobile app\\inclass\\inclass8\\inclass8activity\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B628F2-E002-4BAB-A3D9-41804057990F}|Inclass8Activity.csproj|solutionrelative:services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Pages\\NewsDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\NewsDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Pages\\NewsDetailPage.xaml.cs",
+              "RelativeToolTip": "Pages\\NewsDetailPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T22:17:53.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Pages\\NewsDetailPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\NewsDetailPage.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Pages\\NewsDetailPage.xaml",
+              "RelativeToolTip": "Pages\\NewsDetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T22:12:02.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Pages\\NewsListPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\NewsListPage.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Pages\\NewsListPage.xaml",
+              "RelativeToolTip": "Pages\\NewsListPage.xaml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T21:51:45.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsHomepage.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Pages\\NewsHomepage.xaml",
+              "RelativeDocumentMoniker": "Pages\\NewsHomepage.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Pages\\NewsHomepage.xaml",
+              "RelativeToolTip": "Pages\\NewsHomepage.xaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-03T14:34:51.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:49:49.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:51:19.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsHomepage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Pages\\NewsHomepage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\NewsHomepage.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Pages\\NewsHomepage.xaml.cs",
+              "RelativeToolTip": "Pages\\NewsHomepage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:29:12.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Pages\\NewsListPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\NewsListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Pages\\NewsListPage.xaml.cs",
+              "RelativeToolTip": "Pages\\NewsListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T21:53:49.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Root.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Models\\Root.cs",
+              "RelativeDocumentMoniker": "Models\\Root.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Models\\Root.cs",
+              "RelativeToolTip": "Models\\Root.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:05:16.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-05T14:49:45.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "APIService.cs",
+              "DocumentMoniker": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Services\\APIService.cs",
+              "RelativeDocumentMoniker": "Services\\APIService.cs",
+              "ToolTip": "C:\\Users\\legol\\Desktop\\school\\mobile app\\inclass\\InClass8\\Inclass8Activity\\Services\\APIService.cs",
+              "RelativeToolTip": "Services\\APIService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvwwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:21:34.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Inclass8Activity.Pages.NewsDetailPage"
+             Title="NewsDetailPage">
+    <Grid RowDefinitions="Auto, Auto, *, *">
+        <VerticalStackLayout Padding="10"
+                             Spacing="10"
+                             VerticalOptions="Center">
+            <Label Grid.Row="0"
+                   Text="News Details"
+                   FontSize="Title"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"/>
+            <Image Grid.Row="1"
+                   x:Name="Img_NewsThumbnail"/>
+            <Label Grid.Row="2"
+                   FontSize="Large"
+                   FontAttributes="Bold"
+                   x:Name="Lbl_NewsTitle"/>
+            <Label Grid.Row="3"
+                   FontSize="Body"
+                   x:Name="Lbl_NewsContent"/>
+        </VerticalStackLayout>
+    </Grid>
+</ContentPage>
